@@ -1,22 +1,22 @@
 BantuanNow
 
 BantuanNow is a Python-based application designed to streamline the management of aid distribution. It offers functionalities such as QR code scanning, database management, and a user-friendly interface to facilitate efficient and organized aid processes.
-Features
+Features:
 
-    QR Code Scanning: Quickly scan and process recipient information using QR codes.
+QR Code Scanning: Quickly scan and process recipient information using QR codes.
 
-    Database Management: Store and manage data related to aid recipients and distributions.
+Database Management: Store and manage data related to aid recipients and distributions.
 
-    User Interface: Interactive interfaces to navigate through different functionalities.
+User Interface: Interactive interfaces to navigate through different functionalities.
 
-    Testing Modules: Includes test scripts to ensure the reliability of database operations.
+Testing Modules: Includes test scripts to ensure the reliability of database operations.
 
 Installation
 
-    Clone the Repository:
+Clone the Repository:
 
-git clone https://github.com/imanolandx/BantuanNow.git
-cd BantuanNow
+    git clone https://github.com/imanolandx/BantuanNow.git
+    cd BantuanNow
 
 Install Dependencies:
 Ensure you have Python installed. Then, install the required packages:
@@ -29,7 +29,7 @@ Usage
 
 Run the main application script:
 
-python app.py
+    python app.py
 
 Follow the on-screen instructions to navigate through the application's features.
 Project Structure
